@@ -1,6 +1,6 @@
 # typora-theme-paradox
 
-![](READMEAssets/paradox FullSize.jpg)
+![](preview/paradoxFullSize.jpg)
 
 
 
