@@ -2,7 +2,7 @@
   --accent-color: #696969; /* nice */
   --primary-colour: #306797; /* <> */
   --background-color: white;
-  --border-color: #ddd;
+  --border-color: #dbdbdb;
   --code-bg-color: #f8f8f8; 
   --font-color: #1f1f1f;
   --codemirror-color: var(--font-color);
@@ -123,12 +123,12 @@ h2 {
   margin: 1.5rem 10%;
 }
 h2:after {
-	border-bottom: 3px solid var(--primary-color);
-	content: '';
-	height: 1px;
+  content: '';
+	/* height: 1px; */
 	width: 70%;
 	display: block;
 	margin: .2em auto 0;
+	border-bottom: 2px solid var(--primary-colour);
 }
 
 /* <> */
