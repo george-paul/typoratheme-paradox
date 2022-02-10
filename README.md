@@ -1,6 +1,8 @@
-![](preview/paradox FullSize.jpg)
-
 # typora-theme-paradox
+
+![](READMEAssets/paradox FullSize.jpg)
+
+
 
 Theme for Typora, a Markdown editor
 
