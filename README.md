@@ -1,4 +1,7 @@
+![](preview/paradox FullSize.jpg)
+
 # typora-theme-paradox
+
 Theme for Typora, a Markdown editor
 
 Based on the Quartz theme from troennes (https://github.com/troennes/quartz-theme-typora)
