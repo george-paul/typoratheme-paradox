@@ -8,6 +8,8 @@ Theme for Typora, a Markdown editor
 
 Based on the Quartz theme from troennes (https://github.com/troennes/quartz-theme-typora)
 
+Published at https://theme.typora.io/theme/Paradox/
+
 ## How to Install
 
 1. Download the latest release from [here](https://github.com/george-paul/typoratheme-paradox/releases).
