@@ -4,7 +4,7 @@
 
 
 
-Theme for Typora, a Markdown editor
+Paradox, A beautiful theme for Typora(a Markdown editor).
 
 Based on the Quartz theme from troennes (https://github.com/troennes/quartz-theme-typora)
 
